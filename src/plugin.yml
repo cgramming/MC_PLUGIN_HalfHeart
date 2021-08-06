@@ -1,0 +1,9 @@
+name: HalfHeart
+version: 1.0
+author: BazifShah
+main: MissingToeHalfHeart.Main
+description: makes half heart
+
+commands:
+ onepunch:
+ 
